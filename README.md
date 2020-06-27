@@ -1,4 +1,4 @@
-###My FIRST REACT JS APP
+### My FIRST REACT JS APP
 
 In the project directory, you can run:
 
